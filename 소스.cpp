@@ -31,7 +31,7 @@ int main() {
 		cout << input[i] << endl;
 	}
 
-	cout << "hello fucker" << endl;
+	cout << "hello world" << endl;
 
 	return 0;
 }
