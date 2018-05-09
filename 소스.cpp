@@ -31,5 +31,7 @@ int main() {
 		cout << input[i] << endl;
 	}
 
+	cout << "hello" << endl;
+
 	return 0;
 }
